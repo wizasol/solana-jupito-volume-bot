@@ -2,7 +2,7 @@
     <h1 align="center">✩&emsp;solana-volume-booster&emsp;✩</h1>
 </p>
 <p align="center">
-    <p align="center">solana-volume-booster with user-friendly UI + easy control + high volume boosting ability</p>
+    <p align="center">solana-jupito-volume-bot with user-friendly UI + easy control + high volume boosting ability</p>
 </p>
 
 ![image](https://github.com/user-attachments/assets/531070b0-6551-41ae-b5e3-8b90c7b8b5d1)
